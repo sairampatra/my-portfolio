@@ -178,7 +178,7 @@ function App() {
       }`}>
         <div className="container mx-auto px-4 md:px-8 lg:px-24 flex justify-between items-center">
           <Link to="home" smooth={true} className="font-serif text-2xl cursor-pointer">
-            Astrid
+            Sairam
           </Link>
           
           {/* Desktop Navigation */}
